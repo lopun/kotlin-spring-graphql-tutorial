@@ -1,4 +1,4 @@
-package co.lopun.springgqltut.springgqltut
+package co.lopun.springgqltut
 
 import org.junit.Test
 import org.junit.runner.RunWith
